@@ -2,7 +2,7 @@
 layout: page
 title: ""
 ---
-## Hey! Thanks for stopping by
+## Hey! Thanks for stopping by😄
 
 ![sorry, no headshot for you](HD_headshot.JPEG)
 
