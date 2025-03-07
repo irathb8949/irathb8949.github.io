@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Testing"
+title: ""
 ---
 {% if site.show_excerpts %}
   {% include home.html %}
