@@ -16,13 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  #- {file: "index.html", title: "Home"}
   - {file: "index.md", title: "Home"}
-  #- {file: "README.md", title: "About Me"}
-  #- {file: "activites.md", title: "Recent Activities"}
-  - {file: "shennanigans.md", title: "Shennanigans"}
+  - {file: "research.md", title: "Projects"}
   - {file: "publications.md", title: "Publications"}
-  - {file: "hobbies.md", title: "Hobbies"}
+  - {file: "shennanigans.md", title: "Shennanigans"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:irathbun@umd.edu"}
