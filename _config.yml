@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:irathbun@umd.edu"}
   - {title: Github, icon: github, url: "https://github.com/irathb8949"}
-  - {title: LinkedIn, icon: <i class="fa-brands fa-linkedin"></i>, url: "https://linkedin.com/in/isabelle-rathbun-b42225247"}
+  - {title: LinkedIn, icon: , url: "https://linkedin.com/in/isabelle-rathbun-b42225247"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
