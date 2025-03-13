@@ -1,3 +1,8 @@
+---
+layout: page
+title: ""
+---
+
 # Publications
 
 ### [Google Scholar Profile](https://scholar.google.com/citations?user=4nZKb0cAAAAJ&hl=en)
